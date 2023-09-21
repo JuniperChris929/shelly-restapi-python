@@ -7,7 +7,7 @@ import getpass
 from requests.auth import HTTPBasicAuth
 
 
-username_arg = input("Please Enter the Username: ")
+username_arg = input("Please enter the username: ")
 password_arg = getpass.getpass()
 
 
